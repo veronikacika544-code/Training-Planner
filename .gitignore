@@ -1,4 +1,26 @@
+# Python
 __pycache__/
-*.pyc
-weather_data.json
+*.py[cod]
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+quotes_history.json
 *.log
