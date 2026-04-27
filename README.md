@@ -23,5 +23,5 @@ Random Quote Generator - это десктопное приложение для
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-git clone https://github.com/veronikacika544-code/quote-generator.git
+git clone https://github.com/veronikacika544-code/Random-Quote-Generator
 cd quote-generator
